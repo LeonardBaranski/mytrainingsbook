@@ -448,7 +448,7 @@ test_history = model.fit(X_train, y_train, epochs=2000, validation_split=0.2, ve
 # - Ich lasse mein Modell hier ziemlich oft durchlaufen, und erziele dabei einen loss von 361
 # - Um zu überprüfen, wie sich mein Modell verhält, und ob ich dies verwenden kann, werde ich beim Hyperparameter Tuning erfahren.
 
-# ### Hyperparamter Tuning
+# ### Hyperparameter Tuning
 
 # - Um mein Modell eventuell noch genauer zu machen, führe ich im Folgenden ein Hyperparameter Tuning durch
 # - Mir geht es hierbei darum, herauszufinden, mit welchen Parametern ich mein Modell verbessern kann.
