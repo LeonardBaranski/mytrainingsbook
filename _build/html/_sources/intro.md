@@ -1,11 +1,9 @@
-# Welcome to your Jupyter Book
+# Willkommen auf meinem Jupyter Book
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+In diesem Jupyter Book erstelle ich mit Hilfe von Tensorflow und Keras ein Machine Learning Modell, welches anhand der Trainingsdaten eines Mittelstrecklers eine Herzfrequenzschwelle ausrechnet, welche bei gewissen Parametern nicht überschritten werden sollte. 
+Als Features nehme ich hierbei die Strecke in km, das körperliche Empfinden, und die Geschwindigkeit in m/s.
 
-Check out the content pages bundled with this sample book to see more.
+Eine genauere Erklärung findet sich direkt im Notebook, auf welches Sie unter anderem über diesen Link zugreifen können.
 
 ```{tableofcontents}
 ```
